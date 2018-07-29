@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Education:
-|:------------------|:-----notes:---|
+|:------------------|:--------|
 | Donghua University Master Degree in Digital-Art| |
 | Donghua University Bachelor Degree in Animation| |
 | Donghua University Chinese Courses (1-4)| |
