@@ -3,10 +3,12 @@ layout: default
 title: My CV
 ---
 ## Experience:
-| Donghua University Master Degree in Digital-Art| "Outstanding Project" academic award|
-| Donghua University Bachelor Degree in Animation  Multiple awards                     |
-| Donghua University Chinese Courses (1-4)       | Chinese HSK6                        |
-|                                                |                                     |
+- Shanghai Mokai Technologies
+  - Techincal Artist
+    - Unreal Engine Developer
+- RTech
+  - Technical Artist
+    - Lorem ipsum
 ----
 ## Education:
 - Donghua University Master Degree in Digital-Art 
@@ -14,4 +16,4 @@ title: My CV
 - Donghua University Bachelor Degree in Animation 
   - Multiple awards
 - Donghua University Chinese Courses (1-4) 
-  -Chinese HSK6 
+  - Chinese HSK6 
