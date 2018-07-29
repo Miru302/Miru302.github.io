@@ -3,14 +3,21 @@ layout: default
 title: My CV
 ---
 ### Experience:
-#### Shanghai Mokai Technologies
-- Techincal Artist
-  - Unreal Engine Developer
+<dl>
+<dt><h2>Shanghai Mokai Technologies</h2></dt>
+<dd><h3>Techincal Artist</h3></dd>
+    were doing this stuff </br>
   
-#### RTech
-- Technical Artist
-  - Lorem ipsum
-  
+<dt><h2>RTech Games</h2></dt>
+<dd><h3>Techincal Artist</h3></dd>
+Something somthing </br>
+
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
 ----
 
 ### Education:
@@ -27,10 +34,13 @@ title: My CV
 
 <dl>
 <dt><h2>Shanghai Mokai Technologies</h2></dt>
-<dd>Techincal Artist</dd>
-  were doing this stuff
+<dd><h3>Techincal Artist</h3></dd>
+    were doing this stuff </br>
+  
 <dt><h2>RTech Games</h2></dt>
-<dd>Technical Artist</dd>
+<dd><h3>Techincal Artist</h3></dd>
+Something somthing </br>
+
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
