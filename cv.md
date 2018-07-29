@@ -14,6 +14,7 @@ Support for following nvidia technologies in UE4:
 - Flow
 - Blast
 - WaveWorks
+
 Providing general engine troubleshooting. Working with complex Apex Cloth (NvCloth), Alembic, Texture Vertex Animation assets.
 Developing automated solutions for speeding up pipeline, batch processing Maya and MotionBuilder assets as well as creating tools for artists, using Blueprints, C++(in UE4) and Python.
 EpicGames Account: AyanMiru
