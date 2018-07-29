@@ -6,11 +6,11 @@ title: My CV
 <dl>
 <dt><h2>Shanghai Mokai Technologies</h2></dt>
 <dd><h3>Techincal Artist</h3></dd>
-    were doing this stuff </br>
-  
+<p> were doing this stuff </p>
+****
 <dt><h2>RTech Games</h2></dt>
 <dd><h3>Techincal Artist</h3></dd>
-Something somthing </br>
+<p> were doing this stuff </p>
 
 <dt>Birthplace</dt>
 <dd>Japan</dd>
@@ -31,18 +31,3 @@ Something somthing </br>
   - Chinese HSK6 
 
 ----
-
-<dl>
-<dt><h2>Shanghai Mokai Technologies</h2></dt>
-<dd><h3>Techincal Artist</h3></dd>
-    were doing this stuff </br>
-  
-<dt><h2>RTech Games</h2></dt>
-<dd><h3>Techincal Artist</h3></dd>
-Something somthing </br>
-
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
