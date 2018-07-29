@@ -6,16 +6,22 @@ title: My CV
 <dl>
 <dt><h2>Shanghai Mokai Technologies</h2></dt>
 <dd><h3>Techincal Artist</h3></dd>
-<p> were doing this stuff </p>
-****
+<p>
+  were doing this stuff 
+</p>
+
 <dt><h2>RTech Games</h2></dt>
 <dd><h3>Techincal Artist</h3></dd>
-<p> were doing this stuff </p>
+<p>
+  were doing this stuff
+</p>
 
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt><h2>Cairo's Tale</h2></dt>
+<dd><h3>Intern\Techincal Artist</h3></dd>
+<p>
+  were doing this stuff
+</p>
+
 </dl>
 
 ----
