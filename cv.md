@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My CV
 ---
 ## Experience:
 | Donghua University Master Degree in Digital-Art| "Outstanding Project" academic award|
