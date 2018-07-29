@@ -2,9 +2,9 @@
 layout: default
 ---
 
-| #Education:       | #Experience:    |
+| # Education:       | # Experience:    |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Donghua University          | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
