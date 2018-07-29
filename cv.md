@@ -2,9 +2,9 @@
 layout: default
 ---
 
-| Education:        |   Experience:     |
+| Education:        | Experience:     |
 |:------------------|:------------------|
-| Donghua University| nice              |
+| Donghua University Master Degree Digital-Art| nice              |
 | out of stock      | good and plenty   | 
 | ok                | good `oreos`      | 
 | ok                | good `zoute` drop | 
