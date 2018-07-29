@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|### Education:        |### Experience:     |
+| Education:        | Experience:     |
 |:------------------|:------------------|
 | Donghua University Master Degree in Digital-Art| nice              |
 | out of stock      | good and plenty   | 
