@@ -23,6 +23,7 @@ title: My CV
 #### Donghua University Chinese Courses (1-4) 
   - Chinese HSK6 
 
+----
 
 <dl>
 <dt><h2>Shanghai Mokai Technologies</h2></dt>
